@@ -7,3 +7,5 @@ gitの基本的な動作について学習します
 Gitの勉強　続き
 
 second.txtを削除して、再作成
+
+git status
